@@ -374,7 +374,7 @@ h4 {
 /* article6 */
 
 .article6 {
-  background: url(../img/article_6/products_bg.png) no-repeat top left #fff;
+  background: url("../img/article_6/products_bg.png") no-repeat top left #fff;
   background-size: 50%;
 }
 
